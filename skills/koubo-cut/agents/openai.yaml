@@ -1,0 +1,6 @@
+interface:
+  display_name: "剪映重点字幕与音效"
+  short_description: "依据口播与 SRT 提炼核心词，由用户定稿后自主制作重点字幕、语义强调与动作配声"
+  default_prompt: "使用 $koubo-cut 核实对应 SRT，读取已确认选词偏好并提出本片核心词清单，待我集中定稿后自主制作语义强调、重点字幕和 UISFX 选声或留白，沿剪辑总规则检查并交付。"
+policy:
+  allow_implicit_invocation: true

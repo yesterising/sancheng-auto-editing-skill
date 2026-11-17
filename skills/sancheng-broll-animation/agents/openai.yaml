@@ -1,0 +1,7 @@
+interface:
+  display_name: "三橙 B-roll 分镜与动画"
+  short_description: "按口播与 SRT 自主选短透明手绘、二维或三维动画和人物布局，交付全片同步素材"
+  default_prompt: "使用 $sancheng-broll-animation 按当前口播、SRT 和已定核心词自主分镜，评估合适的短透明手绘、二维或三维动画及人物布局；按剪辑总规则选工具并交付 00:00 对齐的同步素材。"
+
+policy:
+  allow_implicit_invocation: true

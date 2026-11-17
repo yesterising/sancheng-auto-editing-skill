@@ -1,0 +1,9 @@
+.env
+runtime.env
+.venv/
+__pycache__/
+node_modules/
+.npm-cache/
+work/
+outputs/
+.DS_Store

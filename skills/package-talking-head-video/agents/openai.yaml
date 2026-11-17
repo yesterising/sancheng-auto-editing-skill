@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Self-Media Video Packaging"
+  short_description: "先确认用户 SRT，为当前剪映口播制作全片同步透明包装、统一字体与动作匹配音效"
+  default_prompt: "使用 $package-talking-head-video 核实当前口播和 SRT，集中确定本版核心词后自主安排全片视觉、合适的短透明手绘和人物布局，完成检查并交付 00:00 同步透明包装，由我自行导入和放置。"

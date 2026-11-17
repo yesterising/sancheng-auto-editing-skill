@@ -1,0 +1,27 @@
+{
+  "repository": "https://github.com/heygen-com/hyperframes",
+  "commit": "f6cbf87cddfda33d805dd37ee23fce9694db84c7",
+  "skill_path": "skills/hyperframes-registry",
+  "cli_version": "0.8.186",
+  "license": "Apache-2.0",
+  "upstream_skill_sha256": {
+    "SKILL.md": "1c7b27632c9ea9febaafc2d9af073b377029f46be4bee70d75b5e713eb698423",
+    "references/search.md": "3da7b42d2a0d8d9e2cbcdd8591da5a83203c424de9f46a995950d374a74531ee",
+    "references/wiring-components.md": "6c8341c29fdae6de4f9fd1560a668d11cf34731b81fe5a06c9aeb4a000047b2a",
+    "references/templates.md": "98e1ef62d3c1264b28139d85a1c9b5a8b7438209914aebef6d9890e3f4275805",
+    "references/placeholder-material.md": "15adf4a40b26166f64df784aed065adb58051d9ccd5c0c52ad9b71e3b8367a09",
+    "references/wiring-blocks.md": "397f9ad5a9244d173b97bb5a5dfe76ea3cbccfb8dde16cba8b3dabc6044b011a",
+    "references/install-locations.md": "83793e7d6aeea9a751755e4bd23ea48182ff9af082287b98a1192343d2571dd1",
+    "references/discovery.md": "ca82fcc1e0b2d824b72a8bda99b60d257b23d493fa1d28adbb0548a762cacd04",
+    "references/demo-html-pattern.md": "dfc50cd33eff2c2be75437786fc3e851ab0085f7d453fb35b3380ecf9a6e9f04",
+    "references/contributing.md": "7e9e6fd894e54251fad9aa30a08730960ceb776da590a175eadfc1d9014106b1",
+    "references/component-quality-bar.md": "f0d4c3c44131bc0791f8a8cc3d2d7478d38045451775af7d20b2dd47cf5f91ac",
+    "examples/add-component.md": "d06992d31eec617a91f5c34630c9274c52dd07898bd24f10a869d0d1cab5af29",
+    "examples/add-block.md": "0e3353755c4ef55e53570d1266a4a43b2c5aef9bbe41276430e38cfa6580b83a"
+  },
+  "local_adapter": {
+    "entry": "hyperframes-registry/SKILL.md",
+    "upstream_entry_archive": "hyperframes-registry/references/upstream-skill.md",
+    "date": "2026-10-23"
+  }
+}

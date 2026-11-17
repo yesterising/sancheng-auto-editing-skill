@@ -1,0 +1,4 @@
+interface:
+  display_name: "剪映粗剪工程导出"
+  short_description: "仅明确要求草稿文件时生成独立字幕和音轨，媒体打包需另行要求"
+  default_prompt: "使用 $jianying-roughcut-export 将本段粗剪保存为可在剪映继续修改的工程包。"

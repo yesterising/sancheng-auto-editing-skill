@@ -1,0 +1,6 @@
+interface:
+  display_name: "短视频剪辑实战"
+  short_description: "按口播与 SRT 提案核心词，定稿后自动分镜、安排短透明手绘并交付全片同步包装"
+  default_prompt: "使用 $video-editing-playbook 帮我剪辑：核实口播和对应 SRT，集中提出核心词供我定稿，之后自主分镜并优先评估前 10 秒合适的短透明手绘；执行视觉参考、UISFX 与交付检查，交付 00:00 全片同步包装，由我导入和放置。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+interface:
+  display_name: "口播画中画"
+  short_description: "先确认用户 SRT，按信息密度制作全片同步人物窗口，全部从 00:00 对齐后交付"
+policy:
+  allow_implicit_invocation: true
